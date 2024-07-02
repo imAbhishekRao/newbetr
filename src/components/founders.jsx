@@ -17,7 +17,7 @@ export default function Brands() {
         <area
           alt="Clickable Area Brands"
           title="Clickable Area Brands"
-          coords="27px,108px,390px,280px"
+          coords="10px,75px,390px,280px"
           shape="rect"
           onClick={handleAreaClick}
           className="clickable-area"
